@@ -1,4 +1,4 @@
-package dao;
+package attackGames;
 
 /**
  * 战士
